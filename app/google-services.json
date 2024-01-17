@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702304691106",
+    "firebase_url": "https://easylink-52868-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "easylink-52868",
+    "storage_bucket": "easylink-52868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702304691106:android:bed1b00e9a62f6c662c8fb",
+        "android_client_info": {
+          "package_name": "com.doha.easylink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702304691106-kr3oo9lr723vim5f01p270pjqv2uhgjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDum-9Efs9TRYo0I3vyLekQ5O0TojFU14E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702304691106-kr3oo9lr723vim5f01p270pjqv2uhgjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
